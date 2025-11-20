@@ -1,5 +1,3 @@
-# deeplearning
-
 # Deep Learning & Image Classification Experiments
 
 This repository contains a collection of Jupyter Notebooks implementing various Deep Learning architectures using **TensorFlow** and **Keras**. The projects explore Convolutional Neural Networks (CNNs), Artificial Neural Networks (ANNs), and hyperparameter tuning across different datasets (MNIST, Cats vs. Dogs, and a custom Face dataset).
